@@ -11,5 +11,6 @@ To enhance recall, the model employed oversampling, boosting Class 1 representat
 
 A critical feature, Column18, was essential for prediction accuracy. Removing it caused bias, so it was retained. Through balancing oversampling, class weights, and feature retention, the model successfully reduced GST irregularities, maintaining high accuracy and a strong ROC-AUC score.
 
-SHA Verified is for the dataset verification only and its verified
+
+SHA Verified ipynb file is for the dataset verification only and its verified.
 Inside ZIP File, its contains report and Notebooks which have the final analysis, code for evaluation and conclusion overall.
