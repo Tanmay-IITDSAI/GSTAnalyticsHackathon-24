@@ -1,5 +1,6 @@
 # GSTAnalyticsHackathon-24
-# Generated Key: 579b464db66ec23bdd0000010d7434a362f941876318b3efd0772432
+# Generated Key: 579b464db66ec23bdd0000010d7434a362f941876318b3efd0772432 (generated at time of participation)
+# GST_Analysis_Project.zip -> SHA-256: ddfbb60287d7ed3ddc2e17877a2fe0d4b29944757aab119a5e05c7b45efeb8bd
 
 Title: Machine Learning Model for Detecting GST Irregularities Using XGBoost on Imbalanced Data
 
