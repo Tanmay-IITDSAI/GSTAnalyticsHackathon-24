@@ -10,3 +10,6 @@ The GST Predictive Model leverages XGBoost to tackle imbalanced datasets, aiming
 To enhance recall, the model employed oversampling, boosting Class 1 representation to improve the detection of irregular transactions. However, this approach risked lowering precision. To counter this, class weights were adjusted, specifically doubling the weight of Class 1, which improved precision by ensuring more accurate minority class predictions without artificially inflating the dataset.
 
 A critical feature, Column18, was essential for prediction accuracy. Removing it caused bias, so it was retained. Through balancing oversampling, class weights, and feature retention, the model successfully reduced GST irregularities, maintaining high accuracy and a strong ROC-AUC score.
+
+SHA Verified is for the dataset verification only and its verified
+Inside ZIP File, its contains report and Notebooks which have the final analysis, code for evaluation and conclusion overall.
