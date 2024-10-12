@@ -9,6 +9,10 @@ The GST Predictive Model leverages XGBoost to tackle imbalanced datasets, aiming
 
 To enhance recall, the model employed oversampling, boosting Class 1 representation to improve the detection of irregular transactions. However, this approach risked lowering precision. To counter this, class weights were adjusted, specifically doubling the weight of Class 1, which improved precision by ensuring more accurate minority class predictions without artificially inflating the dataset.
 
+#Real-Life Applications:
+ * This analysis is particularly useful inlowering irregularities in GST transactions (eg:audits),as verified using highly imbalanced data.
+ * Supports precise forecasting, resulting in increased GST compliance in actual applications.
+
 A critical feature, Column18, was essential for prediction accuracy. Removing it caused bias, so it was retained. Through balancing oversampling, class weights, and feature retention, the model successfully reduced GST irregularities, maintaining high accuracy and a strong ROC-AUC score.
 
 
