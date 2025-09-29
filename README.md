@@ -18,3 +18,5 @@ A critical feature, Column18, was essential for prediction accuracy. Removing it
 
 SHA Verified ipynb file is for the dataset verification only and its verified.
 Inside ZIP File, its contains report and Notebooks which have the final analysis, code for evaluation and conclusion overall.
+
+Authored By Aayush Kumar, Anirudha Sen & Tanmay Kumar Srivastava
