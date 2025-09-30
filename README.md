@@ -1038,11 +1038,6 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 ## 🙏 Acknowledgments
 
-### Academic Support
-- **Dr. Subidh Ali** - Assistant Professor, IIT Bhilai (Mentor)
-- **IIT Bhilai** - Institutional resources and infrastructure
-- **Data Science & AI Department** - Academic guidance
-
 ### Organizations
 - **Goods & Services Tax Network (GSTN)** - Dataset provision and hackathon organization
 - **Government of India** - Support for tax analytics innovation
@@ -1071,13 +1066,6 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 - **Feature Requests:** Use GitHub Discussions
 - **General Questions:** Contact through repository issues
 
-### Team Profiles
-- **Tanmay Kumar Shrivastava** - Lead Data Scientist (Report & Methodology)
-- **Aayush Kumar** - ML Engineer (Model Implementation)
-- **Anirudha Sen** - Data Engineer (Preprocessing & Feature Engineering)
-
----
-
 ## 📊 Project Statistics
 
 ```
@@ -1093,13 +1081,6 @@ Final Model Accuracy:     97.88%
 ```
 
 ---
-
-## 🏆 Hackathon Results
-
-**Competition:** GST Analytics Hackathon 2024  
-**Organized by:** Goods & Services Tax Network (GSTN), GOI  
-**Submission Date:** October 2024  
-**Team Rank:** [Awaiting Results]
 
 ### Key Achievements
 - Achieved **97.88% accuracy** (top-tier performance)
@@ -1153,18 +1134,6 @@ jupyter notebook notebooks/04_model_comparison.ipynb
 
 ---
 
-## 🎓 Learning Resources
-
-### For Beginners
-1. **Preprocessing:** Start with `notebooks/02_preprocessing.ipynb`
-2. **Model Basics:** Review `notebooks/03_feature_engineering.ipynb`
-3. **Evaluation:** Study `notebooks/04_model_comparison.ipynb`
-
-### For Advanced Users
-1. **Hyperparameter Tuning:** `notebooks/05_xgboost_optimization.ipynb`
-2. **Class Imbalance:** `notebooks/06_smote_analysis.ipynb`
-3. **Deep Dive:** Read full technical report (PDF)
-
 ### External Resources
 - [XGBoost Documentation](https://xgboost.readthedocs.io/)
 - [Imbalanced-Learn Guide](https://imbalanced-learn.org/)
@@ -1193,19 +1162,6 @@ jupyter notebook notebooks/04_model_comparison.ipynb
 
 ---
 
-## 🔄 Updates & Maintenance
-
-**Status:** Active Development  
-**Last Updated:** October 2024  
-**Next Review:** December 2024
-
-### Planned Updates
-- [ ] API deployment guide
-- [ ] Docker containerization
-- [ ] CI/CD pipeline setup
-- [ ] Model monitoring dashboard
-- [ ] Enhanced documentation
-
 ### Contributing
 We welcome contributions! Please:
 1. Fork the repository
@@ -1213,15 +1169,6 @@ We welcome contributions! Please:
 3. Commit changes (`git commit -m 'Add AmazingFeature'`)
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open Pull Request
-
----
-
-## 📖 Additional Documentation
-
-- **[Methodology Details](reports/methodology.md)** - In-depth technical approach
-- **[Results Summary](reports/results_summary.md)** - Key findings and metrics
-- **[API Documentation](docs/api.md)** - REST API reference (planned)
-- **[Contributing Guide](CONTRIBUTING.md)** - How to contribute
 
 ---
 
