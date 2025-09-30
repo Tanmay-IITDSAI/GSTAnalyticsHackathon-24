@@ -40,11 +40,11 @@
 **Submitted to:** Goods & Services Tax Network (GSTN), Government of India
 
 ### Team Members
-| Name | Year | Department |
-|------|------|------------|
-| Aayush Kumar | 2nd Year | B.Tech Mechatronics Engineering |
-| Anirudha Sen | 2nd Year | B.Tech Mechanical Engineering |
-| Tanmay Kumar Shrivastava | 3rd Year | B.Tech Data Science & AI |
+| Name | Department |
+|------|------------|
+| Aayush Kumar | B.Tech Mechatronics Engineering |
+| Anirudha Sen | B.Tech Mechanical Engineering |
+| Tanmay Kumar Shrivastava | B.Tech Data Science & AI |
 
 **Mentor:** Dr. Subidh Ali, Assistant Professor, IIT Bhilai
 
